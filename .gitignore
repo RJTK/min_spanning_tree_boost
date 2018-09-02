@@ -1,0 +1,9 @@
+*~
+*#
+*.cmake
+CMakeFiles
+Makefile
+CMakeCache.txt
+minimum_spanning_tree
+minimum_spanning_tree_test
+
